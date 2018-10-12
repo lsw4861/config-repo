@@ -17,7 +17,7 @@ spring:
     show-sql: true
 girl:
   name: kitte
-  age: 29
+  age: 30
 env:
   test2
 # eureka:
