@@ -19,7 +19,7 @@ girl:
   name: kitte
   age: 444
 env:
-  test444
+  test4440
 # eureka:
 #   client:
 #     service-url:
