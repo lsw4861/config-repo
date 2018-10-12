@@ -17,9 +17,9 @@ spring:
     show-sql: true
 girl:
   name: kitte
-  age: 300
+  age: 340
 env:
-  test210
+  test212
 # eureka:
 #   client:
 #     service-url:
